@@ -1,2 +1,5 @@
 # portfolio-bi
-Portfólio de BI: 3 dashboards Power BI (Varejo, Frota, SaaS) com bases, documentação e protótipos Figma.
+Portfólio de BI com exemplos diferentes de visuais e indicadores apresentados.
+
+# Experiência
+Já trabalhei com grandes empresas como Vale, AEGEA, Gerdau, Bayer, Bracell e muitas outras.
