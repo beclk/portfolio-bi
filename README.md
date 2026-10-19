@@ -1,4 +1,4 @@
-# portfolio-bi
+# Portfolio BI
 Portfólio de BI com exemplos diferentes de visuais e indicadores apresentados.
 
 # Experiência
